@@ -16,7 +16,7 @@
 &nbsp;
 <a href="https://github.com/rifkyahmed?tab=followers"><img src="https://img.shields.io/github/followers/rifkyahmed?label=Followers&style=flat&color=7c3aed&labelColor=1e1b4b" /></a>
 &nbsp;
-<a href="https://www.instagram.com/rifkyyahamed"><img src="https://img.shields.io/badge/Instagram-rifkyyahamed-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://www.instagram.com/rifkyyahmed?igsh=MXF0cjNxc3cxdjRybA%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-rifkyyahamed-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=1e1b4b" /></a>
 
 </div>
 
