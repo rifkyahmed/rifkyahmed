@@ -182,7 +182,7 @@ MySQL    ████████████░░  85%
 
 <div align="center">
 
-<a href="https://www.instagram.com/rifkyyahamed">
+<a href="https://www.instagram.com/rifkyyahmed?igsh=MXF0cjNxc3cxdjRybA%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/badge/Instagram-%40rifkyyahamed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
